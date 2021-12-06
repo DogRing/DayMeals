@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DayMeals</string>
+
+    <string name="main_insert">메뉴 추가</string>
+    <string name="main_delete">메뉴 삭제</string>
+
+    <string name="frag_bar">20171688 임창환 </string>
+    <string name="frag_btn"> CAU </string>
+
+    <string name="menu_title"> 메뉴 이름 </string>
+    <string name="menu_materials"> 메인 재료들 </string>
+    <string name="menu_detail"> 메뉴 설명 </string>
+
+    <string name="detail_title"> 메뉴 이름 </string>
+
+    <string name="insert_name"> 메뉴 이름 : </string>
+    <string name="insert_mat"> 메인 재료 : </string>
+    <string name="insert_detail"> 메뉴 설명 : </string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
